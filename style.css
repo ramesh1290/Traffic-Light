@@ -34,7 +34,7 @@
 
  .traffic-light-box {
    width: 7vmax;
-   height: 50vmin;
+   height: 100px;
    filter: drop-shadow(2px 2px 5px grey);
  }
 
